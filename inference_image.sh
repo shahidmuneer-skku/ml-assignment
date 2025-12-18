@@ -1,0 +1,1 @@
+ python inference_image.py --checkpoint ../checkpoints/model_state.pt --images_path test.png
